@@ -1,5 +1,4 @@
 
-public class D { }
-public class bee{}
+
 
 Öğrenme text eklendi
